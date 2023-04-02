@@ -1,1 +1,0 @@
-const myList = [["Tea", 1], ["arugula", 2 ], ["garlic", 5 ], ["tomato", 6 ], ["potato", 7]];
